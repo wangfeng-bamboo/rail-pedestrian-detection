@@ -1,0 +1,25 @@
+{
+  "model": "TinyDetNet (baseline)",
+  "params_M": 0.431,
+  "mAP": 0.2692225996422122,
+  "precision_mean": 0.5152075964862675,
+  "recall_mean": 0.39265965834452543,
+  "ap_per_class": {
+    "sitting": 0.4514574966880776,
+    "sleeping": 0.26814825495466965,
+    "standing": 0.21899066660148742,
+    "track": 0.13829398032461424
+  },
+  "precision_per_class": {
+    "sitting": 0.608391608387354,
+    "sleeping": 0.5573770491711906,
+    "standing": 0.3950617283926231,
+    "track": 0.49999999999390243
+  },
+  "recall_per_class": {
+    "sitting": 0.5918367346898515,
+    "sleeping": 0.3999999999952941,
+    "standing": 0.35955056179573286,
+    "track": 0.21925133689722326
+  }
+}

@@ -1,0 +1,8 @@
+torch>=2.0
+numpy
+opencv-python
+matplotlib
+seaborn
+pyyaml
+streamlit>=1.30
+pillow

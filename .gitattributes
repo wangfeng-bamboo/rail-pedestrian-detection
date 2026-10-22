@@ -1,0 +1,7 @@
+# 统一换行符，避免 CRLF 警告；二进制文件不做转换
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pt binary
+*.war binary

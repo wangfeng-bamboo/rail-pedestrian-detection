@@ -1,0 +1,27 @@
+# 模型权重：6 个 .pt 约 600MB，不入库
+weights/*.pt
+!weights/README.md
+
+# 数据集：图片与标签请自行下载（train/valid/test 三个子集约 900MB）
+dataset/*
+!dataset/data.yaml
+
+# 打包文件
+*.zip
+*.7z
+*.rar
+
+# IDE / 缓存
+.idea/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 报告与答辩材料（如需公开请自行确认）
+*.docx
+*.pptx
+*王俸竹*
+
+# 系统
+.DS_Store
+Thumbs.db

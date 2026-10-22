@@ -1,0 +1,7 @@
+train: D:/Users/Admin/PycharmProjects/rail_detection_project/dataset/train/images
+val: D:/Users/Admin/PycharmProjects/rail_detection_project/dataset/valid/images
+test: D:/Users/Admin/PycharmProjects/rail_detection_project/dataset/test/images
+
+nc: 4
+names: ['sitting', 'sleeping', 'standing', 'track']
+
