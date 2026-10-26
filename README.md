@@ -7,7 +7,7 @@
 
 ## 效果预览
 
-![测试集检测效果](draw/detect_result.jpg)
+![测试集检测效果](https://cdn.jsdelivr.net/gh/wangfeng-bamboo/rail-pedestrian-detection@main/draw/detect_result.jpg)
 
 测试集（394 张）指标：mAP@0.5 = **0.654**，Precision **0.739**，Recall **0.720**。
 
